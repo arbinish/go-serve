@@ -1,5 +1,5 @@
 # go-serve
-HTTP serve from local directories
+HTTP serve from local directories. A better alternative to ```python -m SimpleHTTPServer```
 
 # usage
 ```bash
